@@ -46,11 +46,7 @@ I have been experimenting with different morning nutrition protocols. Here is on
 * 1/2 tsp. Cocoa Powder (Unsweetened)
 * 1 cup Almond Milk (Unsweetened)
 
-**Calories**: 959 kcal
-**Carbs**: 52g
-**Fiber**: 27g
-**Fat**: 68g
-**Protein**: 45g
+**Calories**: 959 kcal | **Carbs**: 52g | **Fiber**: 27g | **Fat**: 68g | **Protein**: 45g
 
 **Note**: 25g of net carbohydrate.
 
