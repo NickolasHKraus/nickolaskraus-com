@@ -1,14 +1,15 @@
 ---
-**Publish Date**: Aug 8, 2020 at 12:00am
+**Publish Date**: Aug 15, 2020 at 12:00am
 **Tags**: `ironman`
+**Categories**: `weekly-updates`
 **Comments**: Enabled
 **Post URL**: `ironman-week-2`
 **Excerpt**: Training, nutrition, and supplementation for Week 2 of IRONMAN training.
 ---
 
-**Date**: August 8th, 2020
+**Date**: August 8th, 2020 - August 14th, 2020
 
-I am 45 weeks out from the IRONMAN 70.3 Des Moines triathlon. Due to the COVID-19 pandemic, the IRONMAN 70.3 Des Moines triathlon will now debut on **June 20, 2021**. I will be taking this time to train, learn, and grow as a triathlete.
+On August 8th, 2020, I am 45 weeks out from the IRONMAN 70.3 Des Moines triathlon. Due to the COVID-19 pandemic, the IRONMAN 70.3 Des Moines triathlon will now debut on **June 20, 2021**. I will be taking this time to train, learn, and grow as a triathlete.
 
 ### Training
 #### Strength Training
@@ -86,17 +87,17 @@ On Saturday, August 8th, 2020, I completed an indoor brick workout after 16 hour
 * Run: 60 min. @ 7.8 mi/h (7:42 min/mi)
 
 ### Nutrition
-My nutrition continues to be consistent. One strategy that I have been using to attenuate my compulsion to binge when eating with family is to eat a *massive* amount of salad and vegetables. The sheer volume is enough to sate my hungry, which would otherwise be put to work on more calorie dense foods (or desserts).
+My nutrition continues to be consistent. One strategy that I have been using to attenuate my compulsion to binge when eating with family is to eat a *massive* amount of salad and vegetables. The sheer volume is enough to sate my hunger, which would otherwise be put to work on more calorie dense foods (or desserts).
 
 ### Supplementation
 For my fasted brick session, I did some experimentation with caffeine + MCT oil. About 1 hour prior to exercise, I consumed:
 * 200 mg Caffeine
 * 2x Four Sigmatic Mushroom Coffee
-* 2 T Bulletproof MCT Oil
+* 2T Bulletproof MCT Oil
 
 Caffeine has many proven benefits in terms of physical and cognitive performance, however the addition of MCT oil was aimed at providing metabolic substrate in the form of fat (medium chain triglycerides). MCTs, unlike long-chain fatty acids, are delivered directly to the liver via hepatic portal circulation and are responsible for stimulating ketone production and enhancing beta oxidation of fatty acids.
 
-**Warning**: 2 T of MCT oil resulted in stomach discomfort and nausea while biking. It was only after the workout that I learned that the recommended dose is 1 T per hour in order to avoid gastrointestinal issues.
+**Warning**: 2T of MCT oil resulted in stomach discomfort and nausea while biking. It was only after the workout that I learned that the recommended dose is 1T per hour in order to avoid gastrointestinal issues.
 
 ### Summary
 Life is unpredictable. On Monday, a severe storm knocked out power to most of Ames, Iowa causing the gyms to close Monday afternoon until Tuesday night. This was more a psychological disruption, than anything, as I do not like to change my workout schedule once it has been established. Nevertheless, on Tuesday, when I could easily have skipped training, I got in a 30 minute ride. Small decisions like that — doing a workout versus skipping a workout — accrete, building discipline and sharpening resolve. **Never skip a workout**.
