@@ -1,14 +1,15 @@
 ---
-**Publish Date**: Aug 1, 2020 at 12:00am
+**Publish Date**: Aug 8, 2020 at 12:00am
 **Tags**: `ironman`
+**Categories**: `weekly-updates`
 **Comments**: Enabled
 **Post URL**: `ironman-week-1`
 **Excerpt**: Training, nutrition, and supplementation for Week 1 of IRONMAN training.
 ---
 
-**Date**: August 1st, 2020
+**Date**: August 1st, 2020 - August 7th, 2020
 
-I am 9 weeks out from the IRONMAN 70.3 Des Moines triathlon. I am focused and determined to be as fit as possible for the race. Below I share my training, nutrition, and supplementation.
+On August 1st, 2020, I am 9 weeks out from the IRONMAN 70.3 Des Moines triathlon. I am focused and determined to be as fit as possible for the race. Below I share my training, nutrition, and supplementation.
 
 ### Training
 #### Strength Training
