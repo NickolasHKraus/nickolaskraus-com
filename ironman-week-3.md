@@ -1,12 +1,13 @@
 ---
-**Publish Date**: Aug 15, 2020 at 12:00am
+**Publish Date**: Aug 22, 2020 at 12:00am
 **Tags**: `ironman`
+**Categories**: `weekly-updates`
 **Comments**: Enabled
 **Post URL**: `ironman-week-3`
 **Excerpt**: Training, nutrition, and supplementation for Week 3 of IRONMAN training.
 ---
 
-**Date**: August 15th, 2020
+**Date**: August 15th, 2020 - August 21st, 2020
 
 I am 44 weeks out from the IRONMAN 70.3 Des Moines triathlon. Other races postponed due to the COVID-19 pandemic have been rescheduled:
 * 2021 IRONMAN 70.3 Texas: April 11, 2021
