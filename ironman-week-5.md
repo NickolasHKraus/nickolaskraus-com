@@ -1,14 +1,15 @@
 ---
-**Publish Date**: Aug 29, 2020 at 12:00am
+**Publish Date**: Sept 5, 2020 at 12:00am
 **Tags**: `ironman`
+**Categories**: `weekly-updates`
 **Comments**: Enabled
 **Post URL**: `ironman-week-5`
 **Excerpt**: Training, nutrition, and supplementation for Week 5 of IRONMAN training.
 ---
 
-**Date**: August 29th, 2020
+**Date**: August 29th, 2020 - September 4th, 2020
 
-I am 42 weeks out from the IRONMAN 70.3 Des Moines triathlon.
+On August 29th, 2020, I am 42 weeks out from the IRONMAN 70.3 Des Moines triathlon.
 
 ### Training
 #### 36K Run
