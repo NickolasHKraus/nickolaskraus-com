@@ -1,14 +1,15 @@
 ---
-**Publish Date**: Aug 22, 2020 at 12:00am
+**Publish Date**: Aug 29, 2020 at 12:00am
 **Tags**: `ironman`
+**Categories**: `weekly-updates`
 **Comments**: Enabled
 **Post URL**: `ironman-week-4`
 **Excerpt**: Training, nutrition, and supplementation for Week 4 of IRONMAN training.
 ---
 
-**Date**: August 22nd, 2020
+**Date**: August 22nd, 2020 - August 28th, 2020
 
-I am 43 weeks out from the IRONMAN 70.3 Des Moines triathlon.
+On August 22nd, 2020, I am 43 weeks out from the IRONMAN 70.3 Des Moines triathlon.
 
 ### Training
 This week was a little lighter, since I was feeling drained from two monster strength training sessions from the weekend.
@@ -51,8 +52,7 @@ I have been experimenting with different morning nutrition protocols. Here is on
 **Note**: 25g of net carbohydrate.
 
 ### Supplementation
-This week I stopped my **Nootropic Stack**.
-
+This week I stopped my **Nootropic Stack**:
 * 750 mg - Aniracetam
 * 200 mg - Caffeine
 * 250 mg - Citicoline
