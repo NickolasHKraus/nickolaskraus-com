@@ -1,4 +1,3 @@
-# IRONMAN: Week 7
 ---
 **Publish Date**: Sept 19, 2020 at 12:00am
 **Tags**: `ironman`
